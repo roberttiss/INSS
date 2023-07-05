@@ -1,10 +1,10 @@
-INSS em C#
+# INSS em C#
 
 Este projeto é uma aplicação simples de uma calculadora desenvolvida em C# que permite o usuário calculcar o desconto do INSS com base no seu salário.
 
 <hr>
 
-Estrutura do código ⚙️
+# Estrutura do código ⚙️
 
 O código é dividido em dois arquivos:
 
