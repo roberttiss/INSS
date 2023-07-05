@@ -11,4 +11,4 @@ FORM.cs: este arquivo contém a lógica da interface gráfica da aplicação. El
 CLASS.cs: este arquivo contém a classe Venda, que contém as propriedades e métodos necessários para calcular o valor total da compra e o troco do cliente.
 
 ![Screenshot_60](https://github.com/roberttiss/INSS/assets/106879291/1570abbc-9211-4c57-9a92-e6a7a08f9ea0)
-![Uploading Screenshot_61.png…]()
+![Screenshot_61](https://github.com/roberttiss/INSS/assets/106879291/cdd06a9a-c8b1-4d2b-9570-f8bab52e0987)
