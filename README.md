@@ -8,9 +8,9 @@ Este projeto é uma aplicação simples de uma calculadora desenvolvida em C# qu
 
 O código é dividido em dois arquivos:
 
-Form.cs: este arquivo contém a lógica da interface gráfica da aplicação.
+•	Form.cs: este arquivo contém a lógica da interface gráfica da aplicação.
 
-inss.cs: este arquivo contém a classe inss, que contém as propriedades e métodos necessários para calcular o desconto do inss, salário líquido e o salário bruto do funcionário.
+•	inss.cs: este arquivo contém a classe inss, que contém as propriedades e métodos necessários para calcular o desconto do inss, salário líquido e o salário bruto do funcionário.
 
 <hr>
 
